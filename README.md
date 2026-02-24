@@ -30,5 +30,5 @@ Each SKU is classified into a 9-box framework (A1-C3) to help identify:
 - Excel (source data)
 
 ## Screenshots 
-![SKU 9-Box Scatter](screenshot/sku_9box_scatter.png)
-![SKU Classification Table](screenshot/sku_9box_table.png)
+![SKU 9-Box Scatter](screenshots/sku_9box_scatter.png)
+![SKU Classification Table](screenshots/sku_9box_table.png)
